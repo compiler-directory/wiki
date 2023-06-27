@@ -1,0 +1,6 @@
+[book]
+authors = ["Braxton Fair"]
+language = "en"
+multilingual = false
+src = "src"
+title = "compiler.directory wiki"
